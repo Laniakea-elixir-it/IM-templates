@@ -40,7 +40,7 @@ topology_template:
             # used in disk.0.image.url
             # see: http://imdocs.readthedocs.org/en/latest/radl.html?highlight=uri#system-features
             #image: ost://cloud.recas.ba.infn.it/1113d7e8-fc5d-43b9-8d26-61906d89d479
-            image: ost://keystone.cloud.garrservices.it/9b34c74c-2e1a-4d67-84c6-72de689a6808
+            image: ost://keystone.cloud.garrservices.it/c2fb68ba-d9a0-4416-b0bb-38fbe1fdaa82
 
   outputs:
     node_ip:
